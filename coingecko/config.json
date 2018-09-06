@@ -1,0 +1,27 @@
+{
+    "name" : "CoinGecko",
+    "guid" : "asc.{098F862A-84C0-4612-922C-9311C2324918}",
+
+    "variations" : [
+        {
+            "description" : "CoinGecko",
+            "url"         : "index.html",
+
+            "icons"           : ["icon.png", "icon@2x.png"],
+
+            "isViewer"        : false,
+            "EditorsSupport"  : ["cell"],
+
+            "isVisual"        : false,
+            "isModal"         : false,
+            "isInsideMode"    : false,
+
+            "initDataType"    : "none",
+            "initData"        : "",
+
+            "isUpdateOleOnResize" : false,
+
+            "buttons"         : []
+        }
+    ]
+}
